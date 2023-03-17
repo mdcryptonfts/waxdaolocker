@@ -8,11 +8,11 @@ Once that time period passes, you can withdraw the tokens using the account you 
 
 Common LP token information:
 
-	Exchange 	|	Contract		|	Precision	|
+	Exchange 	|	Contract		|	Precision		|
 -------------------------------------------------
 	Defibox		|	lptoken.box		|	0			|
 
-	Alcor		|	alcorammswap	|	8			|
+	Alcor		|	alcorammswap		|	8			|
 
 	Taco		|	swap.taco		|	4			|
 
