@@ -18,3 +18,6 @@ Common LP token information:
 
 This contract is stored on the WAX account:
 waxdaolocker
+
+Tutorial/Explainer Video:
+https://youtu.be/2XKEPulQugQ
