@@ -1,0 +1,9 @@
+# Ignore files with .wasm extension
+*.wasm
+
+# Ignore files with .abi extension
+*.abi
+
+# Ignore the command_line.md file
+command_line.md
+notes.md
